@@ -1,0 +1,73 @@
+/* Body Styles */
+body {
+    background-color: #e6d8c4;
+}
+
+/* Navbar Styles */
+.sticky-top {
+    background-color: #e6d8c4be;
+    padding: 20px 20px 0px 20px;
+    border-bottom: 2px solid #4d463f;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h1Title {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.menuHW1 {
+    font-family: 'Source Serif Pro', serif;
+    /* color: black; */
+}
+
+.link {
+    font-size: .9rem;
+}
+
+.navbar-brand {
+    color: #3f474e;
+}
+.navbar-brand:hover {
+    color: #91a7b9;
+}
+
+/* Main Content Styles */
+.content {
+    margin: 50px;
+    padding-left: 20px;
+}
+
+.content-header {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 2rem;
+}
+
+.pt {
+    color: #3f474e;
+}
+
+.content-text {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.1rem;
+}
+
+.content-text1 {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.1rem;
+    padding-left: 30px;
+    margin: auto;
+}
+
+.total-cases-graph {
+    height: 450px;
+}
+
+.flexbox {
+    display: flex;
+    padding-top: 10px;
+}
